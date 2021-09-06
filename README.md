@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @comhendrik
-- 👀 I’m interested in building great apps
-- 🌱 I’m currently learning SwiftUI and working with Firebase
-- 💞️ I’m looking to collaborate on everything
+- 👀 I’m interested in Ki
+- 🌱 I’m currently learning python
 - 📫 How to reach me email hendrik0807@icloud.com
 
 <!---
