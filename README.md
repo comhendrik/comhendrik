@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @comhendrik
 - 👀 I’m interested in SwiftUI apps.
-- 🌱 I’m currently working on Swift and Python.
+- 🌱 I’m currently working on pushing my ability to understand code instead of writing own code.
 - 📫 How to reach me email hendrik0807@icloud.com
 
 <!---
