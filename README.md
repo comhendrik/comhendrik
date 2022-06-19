@@ -1,7 +1,5 @@
 <h1 align="center">🙋‍♂️Hello, welcome to my profile!</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=comhendrik&label=Profile%20views&color=0e75b6&style=flat" alt="comhendrik" /> </p>
-
 <h3 align="left">🧐About me:</h3>
 
 <p>My name is Hendrik. I am a developer from Germany. I've never been in the professional field, but I try to learn as much as I can.</p>
