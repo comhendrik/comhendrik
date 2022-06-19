@@ -1,8 +1,15 @@
-<h1 align="center">Hi 👋, I'm Hendrik</h1>
-<h3 align="left">A developer from Germany who tries to learn as much as possible</h3>
+<h1 align="center">Hello my name is Hendrik</h1>
+<h3 align="center">A developer from Germany who tries to learn as much as possible</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=comhendrik&label=Profile%20views&color=0e75b6&style=flat" alt="comhendrik" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=comhendrik" alt="comhendrik" /></a> </p>
+
+- 🔭 I’m currently working on **the understanding of docker**
+
+- 👨‍💻 All of my projects are available at [comhendrik.github.io](comhendrik.github.io)
+
+- 📫 How to reach me **hendrik0807@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
