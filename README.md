@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **the understanding of docker**
 
-- 👨‍💻 All of my projects are available at [comhendrik.github.io]([httpscomhendrik.github.io](https://comhendrik.github.io/index.html))
+- 👨‍💻 All of my projects are available at [comhendrik.github.io](https://comhendrik.github.io/index.html)
 
 - 📫 How to reach me **hendrik0807@icloud.com**
 
