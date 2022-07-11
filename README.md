@@ -6,7 +6,7 @@
 
 - 💻 I’m currently working on **the understanding of docker**
 
-- 👨‍💻 To get an overoview of my finished projects, visit [comhendrik.github.io](https://comhendrik.github.io/index.html) (Currently only in German)
+- 👨‍💻 To get an overoview of my finished projects, visit [hendrik-steen.herokuapp.com](https://comhendrik.github.io/index.html) (Currently only in German)
 
 - ✉️ If you want to contact me, please write an e-mail to **hendrik0807@icloud.com**
 
