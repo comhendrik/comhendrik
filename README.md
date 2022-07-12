@@ -6,6 +6,8 @@
 
 - 💻 I’m currently working on **the understanding of docker**
 
+- 🤖 I'm very interested in AI besides my projects
+
 - 👨‍💻 To get an overoview of my finished projects, visit [hendrik-steen.herokuapp.com](https://hendrik-steen.herokuapp.com) (Currently only in German)
 
 - ✉️ If you want to contact me, please write an e-mail to **hendrik0807@icloud.com**
