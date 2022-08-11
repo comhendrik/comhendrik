@@ -4,7 +4,7 @@
 
 <p>My name is Hendrik. I am a developer from Germany. I've never been in the professional field, but I try to learn as much as I can.</p>
 
-- 💻 I’m currently working on **getting my website connected to a MongoDB database**
+- 💻 I’m currently working on **getting my website connected to a MongoDB database**.
 
 - 🤖 I'm very interested in AI besides my projects
 
