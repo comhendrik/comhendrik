@@ -4,8 +4,6 @@
 
 <p>My name is Hendrik. I am a developer from Germany. I am studying business informatics.</p>
 
-- 💻 I’m currently working on **refactoring my Github page**.
-
 <h3 align="left">💪Projects I already finished</h3>
 - <a href="https://github.com/comhendrik/ShopApp">E-Commerce Application</a></br>
 - <a href="https://github.com/comhendrik/NewsApp">News Application</a></br>
