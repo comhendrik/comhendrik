@@ -15,14 +15,14 @@
 - <a href="https://github.com/comhendrik/household_organizer">Application to organize Task in households</a></br>
 
 <h3 align="left">🚧Playground: Here you can find my repo for Scripts, testing things, AI for advent of code and many more</h3>
+<h6 align="left">These projects aren't finished.</h6>
 - <a href="https://github.com/comhendrik/Scripts">Scripts</a></br>
 - <a href="https://github.com/comhendrik/TestProjects">Test Projects</a></br>
 - <a href="https://github.com/comhendrik/AI">AI</a></br>
 - <a href="https://github.com/comhendrik/adventofcode">Advent of Code</a></br>
 - <a href="https://github.com/comhendrik/PythonHerokuServerTutorial">Tutorial to set up a Heroku Server</a></br>
-
-
-
+- <a href="https://github.com/comhendrik/ArrowGame">Playdate Arrow Game</a></br>
+- <a href="https://github.com/comhendrik/ArrowGame">SwiftUI Taxi Rent Application</a></br>
 
 <h3 align="left">🔨Tools I'm familiar with:</h3>
 <p align="left"> <a href="https://stackoverflow.com/users/15508201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15508201" height="40" width="40" />  
