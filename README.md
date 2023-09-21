@@ -16,11 +16,13 @@
 <h3 align="left">🔨Projects that I am currently working on</h3>
 - <a href="https://github.com/comhendrik/household_organizer">Application to organize Task in households</a></br>
 
-<h3 align="left">🚧Playground: Here you can find my repo for Scripts, testing things, AI and for advent of code</h3>
+<h3 align="left">🚧Playground: Here you can find my repo for Scripts, testing things, AI and for advent of code and many more</h3>
 - <a href="https://github.com/comhendrik/Scripts">Scripts</a></br>
 - <a href="https://github.com/comhendrik/TestProjects">Test Projects</a></br>
 - <a href="https://github.com/comhendrik/AI">AI</a></br>
 - <a href="https://github.com/comhendrik/adventofcode">Advent of Code</a></br>
+- <a href="https://github.com/comhendrik/PythonHerokuServerTutorial">Tutorial to set up a Heroku Server</a></br>
+
 
 
 
