@@ -10,6 +10,19 @@
 - <a href="https://github.com/comhendrik/ShopApp">E-Commerce Application</a></br>
 - <a href="https://github.com/comhendrik/NewsApp">News Application</a></br>
 - <a href="https://github.com/comhendrik/StaticPersonalWebsite/tree/dev"> A static personal Website</a></br>
+- <a href="https://github.com/comhendrik/personalWebsite">A personal website, with data based on a json file or a mongoDB Database</a></br>
+- <a href="https://github.com/comhendrik/blog_app"> Blog App with Server and App/Web Client</a></br>
+
+<h3 align="left">Projects that I am currently working on</h3>
+- <a href="https://github.com/comhendrik/household_organizer">Application to organize Task in households</a></br>
+
+h3 align="left">🚧Playground: Here you can find my repo for Scripts, testing things, AI and for advent of code</h3>
+- <a href="https://github.com/comhendrik/Scripts">Scripts</a></br>
+- <a href="https://github.com/comhendrik/TestProjects">Test Projects</a></br>
+- <a href="https://github.com/comhendrik/AI">AI</a></br>
+- <a href="https://github.com/comhendrik/adventofcode">Advent of Code</a></br>
+
+
 
 <h3 align="left">🔨Tools I'm familiar with:</h3>
 <p align="left"> <a href="https://stackoverflow.com/users/15508201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15508201" height="40" width="40" />  
