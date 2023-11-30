@@ -12,7 +12,7 @@
 - <a href="https://github.com/comhendrik/blog_app"> Blog App with Server and App/Web Client</a></br>
 
 <h3 align="left">🔨Projects that I am currently working on</h3>
-- <a href="https://github.com/comhendrik/household_organizer">Application to organize Task in households</a></br>
+- <a href="https://github.com/comhendrik/hmly">HMLY- Flutter Application to organize Task in households</a></br>
 
 <h3 align="left">🚧Playground: Here you can find my repo for Scripts, testing things, AI for advent of code and many more</h3>
 <h6 align="left">These projects aren't finished.</h6>
