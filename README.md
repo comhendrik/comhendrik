@@ -14,7 +14,7 @@
 <h3 align="left">🔨Projects that I am currently working on</h3>
 - <a href="https://github.com/comhendrik/hmly">HMLY- Flutter Application to organize Task in households</a></br>
 
-<h3 align="left">🚧Playground: Here you can find my repo for Scripts, testing things, AI for advent of code and many more</h3>
+<h3 align="left">🚧Playground: Here you can find my repo for Scripts, testing things, AI or advent of code and many more</h3>
 <h6 align="left">These projects aren't finished.</h6>
 - <a href="https://github.com/comhendrik/Scripts">Scripts</a></br>
 - <a href="https://github.com/comhendrik/TestProjects">Test Projects</a></br>
