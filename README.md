@@ -2,7 +2,7 @@
 
 <h3 align="left">🧐About me:</h3>
 
-<p>My name is Hendrik. I am a developer from Germany. I am studying business informatics.</p>
+<p>My name is Hendrik.</p>
 
 <h3 align="left">💪Projects I already finished</h3>
 - <a href="https://github.com/comhendrik/ShopApp">E-Commerce Application</a></br>
