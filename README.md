@@ -10,10 +10,12 @@
 - <a href="https://github.com/comhendrik/StaticPersonalWebsite/tree/dev"> A static personal Website</a></br>
 - <a href="https://github.com/comhendrik/personalWebsite">A personal website, with data based on a json file or a mongoDB Database</a></br>
 - <a href="https://github.com/comhendrik/blog_app"> Blog App with Server and App/Web Client</a></br>
+- <a href="https://github.com/ASidorenkoCode/Kenshins-Journey">Kenshins Journey - A 2D Plattformer Game written in plain Java</a></br>
 
 <h3 align="left">🔨Projects that I am currently working on</h3>
 - <a href="https://github.com/comhendrik/hmly">HMLY- Flutter Application to organize Task in households</a></br>
-- <a href="https://github.com/ASidorenkoCode/Kenshins-Journey">Kenshins Journey - A 2D Plattformer Game written in plain Java</a></br>
+- <a href="https://github.com/comhendrik/vectorMatch">vectorMatch - A 2D Plattformer Game written in plain Java</a></br>
+
 
 <h3 align="left">🚧Playground: Here you can find my repo for Scripts, testing things, AI or advent of code and many more</h3>
 <h6 align="left">These projects aren't finished.</h6>
