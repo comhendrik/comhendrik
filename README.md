@@ -14,7 +14,7 @@
 
 <h3 align="left">🔨Projects that I am currently working on</h3>
 - <a href="https://github.com/comhendrik/hmly">HMLY- Flutter Application to organize Task in households</a></br>
-- <a href="https://github.com/comhendrik/vectorMatch">vectorMatch - A 2D Plattformer Game written in plain Java</a></br>
+- <a href="https://github.com/comhendrik/vectorMatch">vectorMatch - Text Embedding and Search with PostgreSQL and Hugging Face in Docker</a></br>
 
 
 <h3 align="left">🚧Playground: Here you can find my repo for Scripts, testing things, AI or advent of code and many more</h3>
