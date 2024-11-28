@@ -5,6 +5,7 @@
 <p>My name is Hendrik.</p>
 
 <h3 align="left">💪Projects I already finished</h3>
+- <a href="https://github.com/comhendrik/trafficsign_recognizer">Application to recognize and classificate traffic signs</a></br>
 - <a href="https://github.com/comhendrik/ShopApp">E-Commerce Application</a></br>
 - <a href="https://github.com/comhendrik/NewsApp">News Application</a></br>
 - <a href="https://github.com/comhendrik/StaticPersonalWebsite/tree/dev"> A static personal Website</a></br>
